@@ -23,7 +23,7 @@ section{
 }
 footer{
     text-align: center;
-    background-color: rgb(12, 240, 164);
+    background-color: rgb(4, 19, 14);
     color: white;
     padding: 10px;
 }
@@ -34,7 +34,7 @@ nav ul { /*2era prueba*/
     list-style: none;
     padding: 5px;
     color: #fff;
-    background: rgb(7, 231, 93);
+    background: black;
 }
 .menu li {
     width: 100%;
@@ -56,6 +56,6 @@ nav ul { /*2era prueba*/
     display: block;
 }
 .menu a:hover {
-    background: rgb(73, 236, 9);
-    color: rgb(223, 35, 35);
+    background: blueviolet;
+    color: white;
 }
